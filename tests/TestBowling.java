@@ -8,7 +8,7 @@ public class TestBowling {
 	public void test_bowling_score_81() {
 		BowlingGame myGame = new BowlingGame();
 		
-		myGame.addFrame(new Frame(1,5));
+		/*myGame.addFrame(new Frame(1,5));
 		myGame.addFrame(new Frame(3,6));
 		myGame.addFrame(new Frame(7,2));
 		myGame.addFrame(new Frame(3,6));
@@ -17,7 +17,7 @@ public class TestBowling {
 		myGame.addFrame(new Frame(3,3));
 		myGame.addFrame(new Frame(4,5));
 		myGame.addFrame(new Frame(8,1));
-		myGame.addFrame(new Frame(2,6));
+		myGame.addFrame(new Frame(2,6));*/
 		
 		assertEquals(81, myGame.score());
 	}
@@ -28,7 +28,7 @@ public class TestBowling {
 		
 		myGame.addFrame(new Frame(10, 0)); // strike
 		
-		myGame.addFrame(new Frame(3,6));
+		/*myGame.addFrame(new Frame(3,6));
 		myGame.addFrame(new Frame(7,2));
 		myGame.addFrame(new Frame(3,6));
 		myGame.addFrame(new Frame(4,4));
@@ -36,7 +36,7 @@ public class TestBowling {
 		myGame.addFrame(new Frame(3,3));
 		myGame.addFrame(new Frame(4,5));
 		myGame.addFrame(new Frame(8,1));
-		myGame.addFrame(new Frame(2,6));
+		myGame.addFrame(new Frame(2,6));*/
 		
 		
 		assertEquals(94, myGame.score());
@@ -48,7 +48,7 @@ public class TestBowling {
 		
 		myGame.addFrame(new Frame(1,9)); // spare
 		
-		myGame.addFrame(new Frame(3,6));
+		/*myGame.addFrame(new Frame(3,6));
 		myGame.addFrame(new Frame(7,2));
 		myGame.addFrame(new Frame(3,6));
 		myGame.addFrame(new Frame(4,4));
@@ -56,7 +56,7 @@ public class TestBowling {
 		myGame.addFrame(new Frame(3,3));
 		myGame.addFrame(new Frame(4,5));
 		myGame.addFrame(new Frame(8,1));
-		myGame.addFrame(new Frame(2,6));
+		myGame.addFrame(new Frame(2,6));*/
 		
 		assertEquals(88, myGame.score());
 	}
@@ -65,7 +65,7 @@ public class TestBowling {
 	public void test_bowling_score_strike_and_spare_103() {
 		BowlingGame myGame = new BowlingGame();
 		
-		myGame.addFrame(new Frame(10,0));
+		/*myGame.addFrame(new Frame(10,0));
 		myGame.addFrame(new Frame(4,6));
 		
 		myGame.addFrame(new Frame(7,2));
@@ -75,7 +75,7 @@ public class TestBowling {
 		myGame.addFrame(new Frame(3,3));
 		myGame.addFrame(new Frame(4,5));
 		myGame.addFrame(new Frame(8,1));
-		myGame.addFrame(new Frame(2,6));
+		myGame.addFrame(new Frame(2,6));*/
 		
 		assertEquals(103, myGame.score());
 	}

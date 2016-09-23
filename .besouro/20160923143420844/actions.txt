@@ -373,3 +373,18 @@ EditAction 1474636684747 BowlingGame.java 1736 4 4 0
 UnitTestCaseAction 1474636687317 TestBowling.java FAIL
 UnitTestSessionAction 1474636687317 TestBowling.java FAIL
 EditAction 1474636705498 BowlingGame.java 1716 4 14 0
+UnitTestCaseAction 1474636707478 TestBowling.java FAIL
+UnitTestSessionAction 1474636707478 TestBowling.java FAIL
+RefactoringAction 1474636716676 TestBowling.java REMOVE test_bowling_score_one_spare_88() METHOD
+RefactoringAction 1474636716677 TestBowling.java REMOVE test_bowling_score_one_strike_94() METHOD
+RefactoringAction 1474636716677 TestBowling.java REMOVE test_bowling_score_strike_and_spare_103() METHOD
+RefactoringAction 1474636719686 TestBowling.java ADD void test_bowling_score_one_strike_94() METHOD
+RefactoringAction 1474636719687 TestBowling.java ADD void test_bowling_score_one_spare_88() METHOD
+RefactoringAction 1474636719687 TestBowling.java ADD void test_bowling_score_strike_and_spare_103() METHOD
+RefactoringAction 1474636722698 TestBowling.java REMOVE test_bowling_score_one_spare_88() METHOD
+RefactoringAction 1474636722699 TestBowling.java REMOVE test_bowling_score_strike_and_spare_103() METHOD
+RefactoringAction 1474636725218 TestBowling.java ADD void test_bowling_score_one_spare_88() METHOD
+RefactoringAction 1474636725219 TestBowling.java ADD void test_bowling_score_strike_and_spare_103() METHOD
+RefactoringAction 1474636727230 TestBowling.java REMOVE test_bowling_score_strike_and_spare_103() METHOD
+RefactoringAction 1474636729239 TestBowling.java ADD void test_bowling_score_strike_and_spare_103() METHOD
+EditAction 1474636734429 TestBowling.java 2201 4 10 4
