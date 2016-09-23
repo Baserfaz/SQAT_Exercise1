@@ -11,18 +11,33 @@ public class BowlingGame {
 	
 	public BowlingGame(){
 		
+		frame f = null;
+		
 		// create ten frames
+		
 		addFrame(new Frame(10,0));
+		f = frames.get(list.size - 1);
+		
 		//addFrame(new Frame(1,5));
+		
 		addFrame(new Frame(3,6));
+		
 		addFrame(new Frame(7,2));
+		
 		addFrame(new Frame(3,6));
+		
 		addFrame(new Frame(4,4));
+		
 		addFrame(new Frame(5,3));
+		
 		addFrame(new Frame(3,3));
+		
 		addFrame(new Frame(4,5));
+		
 		addFrame(new Frame(8,1));
+		
 		addFrame(new Frame(2,6));
+		
 		
 	}
 	
