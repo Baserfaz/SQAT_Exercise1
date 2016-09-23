@@ -162,3 +162,5 @@ RefactoringAction 1474633933426 BowlingGame.java ADD void addFrame(Frame) METHOD
 RefactoringAction 1474633933426 BowlingGame.java ADD void setBonus(int, int) METHOD
 RefactoringAction 1474633933427 BowlingGame.java ADD int score() METHOD
 EditAction 1474633934473 BowlingGame.java 1969 5 15 0
+RefactoringAction 1474633949904 TestBowling.java ADD void test_getTestGameNormalMapSize() METHOD
+EditAction 1474633950658 TestBowling.java 396 2 4 2
