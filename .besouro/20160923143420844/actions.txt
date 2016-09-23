@@ -13,3 +13,4 @@ RefactoringAction 1474631528271 TestBowling.java RENAME test_bow()=>void test_bo
 RefactoringAction 1474631531283 TestBowling.java RENAME test_bowling_score()=>void test_bowling_score_() METHOD
 RefactoringAction 1474631533293 TestBowling.java RENAME test_bowling_score_()=>void test_bowling_score_81() METHOD
 EditAction 1474631550211 TestBowling.java 205 1 1 0
+EditAction 1474631558966 TestBowling.java 205 1 1 0
