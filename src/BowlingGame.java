@@ -39,7 +39,6 @@ public class BowlingGame {
 				continue;
 			}
 			
-			
 			myScore += f.score();
 		}
 		return myScore;
