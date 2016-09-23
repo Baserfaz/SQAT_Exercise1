@@ -14,15 +14,18 @@ public class BowlingGame {
 	public BowlingGame(){
 		// create ten frames.. 
 		// hardcoded -> manually have to change these every single time.
-		
-		//addFrame(new Frame(10, 0)); // strike
-		//addFrame(new Frame(1,9)); // spare
-		
+
+		// 3. & 4.
 		//addFrame(new Frame(1,5));
 		//addFrame(new Frame(3,6));
 		
-		addFrame(new Frame(10,0));
-		addFrame(new Frame(4,6));
+		// 5.
+		//addFrame(new Frame(10, 0)); // strike
+		//addFrame(new Frame(1,9)); // spare
+		
+		// 7.
+		//addFrame(new Frame(10,0));
+		//addFrame(new Frame(4,6));
 		
 		addFrame(new Frame(7,2));
 		addFrame(new Frame(3,6));
