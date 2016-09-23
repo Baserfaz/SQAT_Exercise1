@@ -19,3 +19,4 @@ UnitTestCaseAction 1474631592704 TestBowling.java OK
 UnitTestSessionAction 1474631592705 TestBowling.java OK
 EditAction 1474631603514 TestBowling.java 230 1 2 1
 EditAction 1474631712087 Frame.java 704 6 8 0
+EditAction 1474631722510 Frame.java 685 6 8 0
