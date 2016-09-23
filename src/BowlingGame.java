@@ -9,6 +9,8 @@ public class BowlingGame {
 	private List<Frame> frames = new ArrayList<Frame>();
 	private Frame bonus;
 	
+	private int[] testGame = {1,5,3,6,7,2,3,6,4,4,5,3,3,3,4,5,8,1,2,6};
+	
 	public BowlingGame(){
 		
 		Frame f = null;
@@ -16,6 +18,7 @@ public class BowlingGame {
 		// create ten frames
 		addFrame(new Frame(10,0));
 		f = frames.get(frames.size() - 1);
+		
 		if(f.isStrike()) {
 			
 		}

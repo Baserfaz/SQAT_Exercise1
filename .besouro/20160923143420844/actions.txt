@@ -30,3 +30,5 @@ CompilationAction 1474632066020 BowlingGame.java
 CompilationAction 1474632066200 BowlingGame.java
 CompilationAction 1474632080947 BowlingGame.java
 EditAction 1474632121126 BowlingGame.java 1150 4 17 0
+RefactoringAction 1474632155178 BowlingGame.java ADD int FIELD
+EditAction 1474632244452 BowlingGame.java 1227 4 17 0
