@@ -51,6 +51,10 @@ public class BowlingGame {
 				continue;
 			}
 			
+			if(f.isSpare()) {
+				myScore += 10 + frames.get(i + 1).getFirstThrow();
+				continue;
+			}
 			
 			
 			myScore += f.score();
