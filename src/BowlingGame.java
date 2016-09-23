@@ -26,7 +26,6 @@ public class BowlingGame {
 			}
 			
 			testGame_normal.put(testGameValues_normal[i], testGameValues_normal[i+1]);
-			if(i == 18) break;
 		}
 		
 		// loop through each dictionary entry.
