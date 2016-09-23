@@ -35,8 +35,6 @@ public class BowlingGame {
 			int secondScore = e.getValue(); 
 			
 			addFrame(new Frame(firstScore, secondScore));
-			
-			
 		}
 		
 		
