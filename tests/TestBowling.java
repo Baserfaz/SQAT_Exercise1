@@ -36,6 +36,9 @@ public class TestBowling {
 	public void test_bowling_score_strike_and_spare_103() {
 		BowlingGame myGame = new BowlingGame();
 		
+		myGame.addFrame(new Frame(10,0));
+		myGame.addFrame(new Frame(4,6));
+		
 		assertEquals(103, myGame.score());
 	}
 	
