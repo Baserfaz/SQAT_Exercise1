@@ -49,7 +49,7 @@ public class BowlingGame {
 					
 				if(lastFrame) {
 					if(bonus != null) {
-						
+						myScore += bonus.getFirstThrow();
 					}
 				}
 				
