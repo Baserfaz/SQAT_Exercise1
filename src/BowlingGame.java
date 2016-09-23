@@ -18,7 +18,7 @@ public class BowlingGame {
 	
 	public BowlingGame(){
 		
-		// for some reason Map.put doesn't work even when hardcoding 10 puts, it still counts as 7 pairs.
+		// for some reason Map.put doesn't work even when hardcoding 10 puts, it still counts as 7 pairs. ???
 		
 		// create a dictionary of values
 		/*for(int i = 0; i < 10; i++) {
