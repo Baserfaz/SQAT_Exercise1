@@ -117,4 +117,27 @@ public class TestBowling {
 		assertEquals(98, myGame.score());
 	}
 	
+	@Test
+	public void test_bowling_score_last_spare_90() {
+		BowlingGame myGame = new BowlingGame();
+		
+		myGame.addFrame(new Frame(1,5));
+		myGame.addFrame(new Frame(3,6));
+		myGame.addFrame(new Frame(7,2));
+		myGame.addFrame(new Frame(3,6));
+		myGame.addFrame(new Frame(4,4));
+		myGame.addFrame(new Frame(5,3));
+		myGame.addFrame(new Frame(3,3));
+		myGame.addFrame(new Frame(4,5));
+		myGame.addFrame(new Frame(8,1));
+		
+		// last
+		myGame.addFrame(new Frame(2,8));
+		
+		// bonus
+		myGame.setBonus(7,0);
+		
+		assertEquals(98, myGame.score());
+	}
+	
 }

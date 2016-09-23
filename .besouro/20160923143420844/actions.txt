@@ -474,3 +474,9 @@ CompilationAction 1474637498703 BowlingGame.java
 CompilationAction 1474637498703 BowlingGame.java
 EditAction 1474637555365 BowlingGame.java 1329 4 5 0
 EditAction 1474637621944 BowlingGame.java 1285 4 5 0
+RefactoringAction 1474637643969 TestBowling.java ADD void test_bowling_score_two_spares_row_98()/2 METHOD
+RefactoringAction 1474637648481 TestBowling.java RENAME test_bowling_score_two_spares_row_98()/2=>void test_bowling_score_last98() METHOD
+RefactoringAction 1474637650485 TestBowling.java RENAME test_bowling_score_last98()=>void test_bowling_score_last_98() METHOD
+RefactoringAction 1474637656497 TestBowling.java RENAME test_bowling_score_last_98()=>void test_bowling_score_last_spare_98() METHOD
+RefactoringAction 1474637659501 TestBowling.java RENAME test_bowling_score_last_spare_98()=>void test_bowling_score_last_spare_90() METHOD
+EditAction 1474637711819 TestBowling.java 3800 7 85 7
