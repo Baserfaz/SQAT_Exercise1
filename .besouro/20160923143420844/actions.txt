@@ -315,3 +315,5 @@ EditAction 1474635777822 BowlingGame.java 1556 4 14 0
 UnitTestCaseAction 1474635779108 TestBowling.java FAIL
 UnitTestSessionAction 1474635779109 TestBowling.java FAIL
 EditAction 1474635833985 BowlingGame.java 1627 4 14 0
+RefactoringAction 1474635845201 TestBowling.java ADD void test_bowling_score_one_spare_88()/2 METHOD
+EditAction 1474635845875 TestBowling.java 678 4 8 4

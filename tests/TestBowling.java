@@ -24,4 +24,11 @@ public class TestBowling {
 		assertEquals(88, myGame.score());
 	}
 	
+	@Test
+	public void test_bowling_score_one_spare_88() {
+		BowlingGame myGame = new BowlingGame();
+		
+		assertEquals(88, myGame.score());
+	}
+	
 }
