@@ -13,6 +13,7 @@ public class BowlingGame {
 	
 	public BowlingGame(){
 		// create ten frames.. hardcoding -> easier.
+		
 		//addFrame(new Frame(10, 0));
 		//addFrame(new Frame());
 		addFrame(new Frame(1,5));
