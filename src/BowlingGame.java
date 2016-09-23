@@ -53,8 +53,6 @@ public class BowlingGame {
 		addFrame(new Frame(2,6));
 	}
 	
-
-	
 	public int getTestGameNormalMapSize() {
 		return testGame_normal.size();
 	}
