@@ -15,8 +15,8 @@ public class BowlingGame {
 		// create ten frames.. hardcoding -> easier.
 		
 		//addFrame(new Frame(10, 0)); // strike
-		//addFrame(new Frame(1,9)); // spare
-		addFrame(new Frame(1,5));
+		addFrame(new Frame(1,9)); // spare
+		//addFrame(new Frame(1,5));
 		addFrame(new Frame(3,6));
 		addFrame(new Frame(7,2));
 		addFrame(new Frame(3,6));
