@@ -34,7 +34,7 @@ public class BowlingGame {
 				
 				// if the next frame is strike ...
 				if(frames.get(i + 1).isStrike()) {
-					
+					myScore += frames.get(i + 1).score() + 
 				}
 				
 				

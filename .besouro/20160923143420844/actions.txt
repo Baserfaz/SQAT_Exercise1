@@ -432,3 +432,6 @@ RefactoringAction 1474637081584 TestBowling.java RENAME test_bowling_score_two_s
 RefactoringAction 1474637082587 TestBowling.java RENAME test_bowling_score_two_strikes__103()=>void test_bowling_score_two_strikes_row_103() METHOD
 RefactoringAction 1474637087091 TestBowling.java RENAME test_bowling_score_two_strikes_row_103()=>void test_bowling_score_two_strikes_row_112() METHOD
 EditAction 1474637098038 TestBowling.java 2708 5 60 5
+UnitTestCaseAction 1474637099522 TestBowling.java FAIL
+UnitTestSessionAction 1474637099523 TestBowling.java FAIL
+EditAction 1474637172518 BowlingGame.java 1141 4 1 0
