@@ -20,17 +20,26 @@ public class BowlingGame {
 	
 	public BowlingGame(){
 		
-		
+		// create a dictionary of values
 		for(int i = 0; i < testGameValues_normal.length; i+=2) {
-			
-			if(i => 18) break;
+			if(i >= 18) break;
 			testGame_normal.put(testGameValues_normal[i], testGameValues_normal[i+1]);
 		}
 		
-		
 		Frame f = null;
 		
-		for(
+		// loop through each dictionary entry.
+		for(Map.Entry<Integer, Integer> e : testGame_normal.entrySet()) {
+			
+			// key = first score
+			// value second score
+			int firstScore = e.getKey();
+			int secondScore = e.getValue(); 
+			
+			addFrame(new Frame(firstScore, secondScore));
+			
+			
+		}
 		
 		
 		// create ten frames
