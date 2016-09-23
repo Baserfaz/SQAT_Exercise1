@@ -388,3 +388,6 @@ RefactoringAction 1474636725219 TestBowling.java ADD void test_bowling_score_str
 RefactoringAction 1474636727230 TestBowling.java REMOVE test_bowling_score_strike_and_spare_103() METHOD
 RefactoringAction 1474636729239 TestBowling.java ADD void test_bowling_score_strike_and_spare_103() METHOD
 EditAction 1474636734429 TestBowling.java 2201 4 10 4
+UnitTestCaseAction 1474636737144 TestBowling.java FAIL
+UnitTestSessionAction 1474636737145 TestBowling.java FAIL
+EditAction 1474636774612 BowlingGame.java 1706 4 14 0
