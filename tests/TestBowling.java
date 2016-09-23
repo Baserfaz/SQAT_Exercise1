@@ -1,7 +1,6 @@
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-import java.util.*;
 
 public class TestBowling {
 
@@ -11,7 +10,6 @@ public class TestBowling {
 		
 		myGame.addFrame(new Frame(1,5));
 		myGame.addFrame(new Frame(3,6));
-		
 		myGame.addFrame(new Frame(7,2));
 		myGame.addFrame(new Frame(3,6));
 		myGame.addFrame(new Frame(4,4));
