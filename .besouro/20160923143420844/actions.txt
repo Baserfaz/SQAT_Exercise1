@@ -149,3 +149,7 @@ UnitTestCaseAction 1474633738532 TestBowling.java FAIL
 UnitTestSessionAction 1474633738532 TestBowling.test_getTestGameNormalMapSize FAIL
 EditAction 1474633772045 BowlingGame.java 2039 5 7 0
 EditAction 1474633797045 BowlingGame.java 1965 5 7 0
+UnitTestCaseAction 1474633799189 TestBowling.java FAIL
+UnitTestSessionAction 1474633799189 TestBowling.test_getTestGameNormalMapSize FAIL
+RefactoringAction 1474633805356 TestBowling.java REMOVE test_getTestGameNormalMapSize() METHOD
+EditAction 1474633807497 TestBowling.java 400 1 2 1
