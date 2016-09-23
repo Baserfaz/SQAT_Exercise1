@@ -11,12 +11,14 @@ public class BowlingGame {
 	
 	public BowlingGame(){
 		
-		frame f = null;
+		Frame f = null;
 		
 		// create ten frames
-		
 		addFrame(new Frame(10,0));
-		f = frames.get(list.size - 1);
+		f = frames.get(frames.size() - 1);
+		if(f.isStrike()) {
+			
+		}
 		
 		//addFrame(new Frame(1,5));
 		
