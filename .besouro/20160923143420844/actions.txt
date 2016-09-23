@@ -449,3 +449,4 @@ RefactoringAction 1474637248230 TestBowling.java RENAME test_bowling_score_two_s
 RefactoringAction 1474637253233 TestBowling.java RENAME test_bowling_score_two__98()=>void test_bowling_score_two_spares_row_98() METHOD
 EditAction 1474637253723 TestBowling.java 3233 6 72 6
 EditAction 1474637259462 TestBowling.java 3232 6 72 6
+EditAction 1474637290732 TestBowling.java 3230 6 72 6

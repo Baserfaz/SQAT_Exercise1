@@ -102,8 +102,8 @@ public class TestBowling {
 	public void test_bowling_score_two_spares_row_98() {
 		BowlingGame myGame = new BowlingGame();
 		
-		myGame.addFrame(new Frame(10,0));
-		myGame.addFrame(new Frame(10,0));
+		myGame.addFrame(new Frame(8,2));
+		myGame.addFrame(new Frame(5,5));
 		
 		myGame.addFrame(new Frame(7,2));
 		myGame.addFrame(new Frame(3,6));
