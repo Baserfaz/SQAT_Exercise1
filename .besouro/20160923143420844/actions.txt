@@ -164,3 +164,6 @@ RefactoringAction 1474633933427 BowlingGame.java ADD int score() METHOD
 EditAction 1474633934473 BowlingGame.java 1969 5 15 0
 RefactoringAction 1474633949904 TestBowling.java ADD void test_getTestGameNormalMapSize() METHOD
 EditAction 1474633950658 TestBowling.java 396 2 4 2
+UnitTestCaseAction 1474633952011 TestBowling.java FAIL
+UnitTestSessionAction 1474633952011 TestBowling.java FAIL
+EditAction 1474633964051 BowlingGame.java 1969 5 15 0

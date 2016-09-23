@@ -33,14 +33,14 @@ public class BowlingGame {
 		}*/
 		
 		// create ten frames
-		addFrame(new Frame(10,0));
+		//addFrame(new Frame(10,0));
 		/*f = frames.get(frames.size() - 1);
 		
 		if(f.isStrike()) {
 			
 		}*/
 		
-		//addFrame(new Frame(1,5));
+		addFrame(new Frame(1,5));
 		
 		addFrame(new Frame(3,6));
 		
