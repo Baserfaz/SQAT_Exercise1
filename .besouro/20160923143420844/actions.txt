@@ -317,3 +317,12 @@ UnitTestSessionAction 1474635779109 TestBowling.java FAIL
 EditAction 1474635833985 BowlingGame.java 1627 4 14 0
 RefactoringAction 1474635845201 TestBowling.java ADD void test_bowling_score_one_spare_88()/2 METHOD
 EditAction 1474635845875 TestBowling.java 678 4 8 4
+CompilationAction 1474635845970 TestBowling.java
+RefactoringAction 1474635859718 TestBowling.java RENAME test_bowling_score_one_spare_88()/2=>void test_bowling_score_one_spare_103() METHOD
+RefactoringAction 1474635862722 TestBowling.java RENAME test_bowling_score_one_spare_103()=>void test_bowling_score__spare_103() METHOD
+RefactoringAction 1474635864730 TestBowling.java RENAME test_bowling_score__spare_103()=>void test_bowling_score_strike_spare_103() METHOD
+RefactoringAction 1474635867236 TestBowling.java RENAME test_bowling_score_strike_spare_103()=>void test_bowling_score_strike_and_spare_103() METHOD
+CompilationAction 1474635870460 TestBowling.java
+UnitTestCaseAction 1474635892388 TestBowling.java FAIL
+UnitTestSessionAction 1474635892389 TestBowling.java FAIL
+EditAction 1474635958308 BowlingGame.java 1678 4 14 0
