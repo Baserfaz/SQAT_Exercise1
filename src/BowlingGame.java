@@ -26,9 +26,8 @@ public class BowlingGame {
 	public int score(){
 		int myScore = 0;
 		for(int i = 0; i < frames.size(); i++) {
-			
 			Frame f = frames.get(i);
-
+			
 			if(f.isStrike()) {
 				myScore += f.getFirstThrow() + frames.get(i + 1).score();
 				
