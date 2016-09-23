@@ -19,7 +19,7 @@ public class BowlingGame {
 	public BowlingGame(){
 		
 		// create a dictionary of values
-		/*for(int i = 0; i < testGameValues_normal.length; i+=2) {
+		for(int i = 0; i < testGameValues_normal.length; i+=2) {
 			testGame_normal.put(testGameValues_normal[i], testGameValues_normal[i+1]);
 			if(i == 18) break;
 		}
@@ -30,7 +30,7 @@ public class BowlingGame {
 			// key = first score
 			// value = second score
 			addFrame(new Frame(e.getKey(), e.getValue()));
-		}*/
+		}
 		
 		// create ten frames
 		/*addFrame(new Frame(1,5));
