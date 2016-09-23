@@ -42,7 +42,7 @@ public class BowlingGame {
 		
 		
 		// loop through each dictionary entry.
-		for(Map.Entry<Integer, Integer> e : testGame_normal.entrySet()) {
+		for(Map.Entry<Integer, Integer> e : testGame_normal.entrySet()()) {
 			
 			// key = first score
 			// value = second score
