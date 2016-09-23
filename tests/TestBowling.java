@@ -18,6 +18,10 @@ public class TestBowling {
 	public void test_bowling_score_one_strike_94() {
 		BowlingGame myGame = new BowlingGame();
 		
+		myGame.addFrame(new Frame(10, 0)); // strike
+		myGame.addFrame(new Frame(1,9)); // spare
+				
+		
 		assertEquals(94, myGame.score());
 	}
 	
