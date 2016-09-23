@@ -28,6 +28,9 @@ public class BowlingGame {
 		
 		Frame f = null;
 		
+		for(
+		
+		
 		// create ten frames
 		addFrame(new Frame(10,0));
 		f = frames.get(frames.size() - 1);

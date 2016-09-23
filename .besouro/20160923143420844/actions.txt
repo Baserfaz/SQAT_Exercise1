@@ -64,3 +64,4 @@ CompilationAction 1474632458828 BowlingGame.java
 CompilationAction 1474632478637 BowlingGame.java
 RefactoringAction 1474632527615 BowlingGame.java RENAME testGame=>Map<Integer,Integer> testGame_normal FIELD
 EditAction 1474632532971 BowlingGame.java 1621 4 18 0
+EditAction 1474632617612 BowlingGame.java 1637 4 4 0
