@@ -8,3 +8,8 @@ EditAction 1474631417320 BowlingGame.java 1022 4 14 0
 EditAction 1474631429483 BowlingGame.java 1028 4 14 0
 EditAction 1474631465944 BowlingGame.java 997 4 14 0
 EditAction 1474631499292 BowlingGame.java 981 4 14 0
+RefactoringAction 1474631525249 TestBowling.java RENAME test()=>void test_bow() METHOD
+RefactoringAction 1474631528271 TestBowling.java RENAME test_bow()=>void test_bowling_score() METHOD
+RefactoringAction 1474631531283 TestBowling.java RENAME test_bowling_score()=>void test_bowling_score_() METHOD
+RefactoringAction 1474631533293 TestBowling.java RENAME test_bowling_score_()=>void test_bowling_score_81() METHOD
+EditAction 1474631550211 TestBowling.java 205 1 1 0

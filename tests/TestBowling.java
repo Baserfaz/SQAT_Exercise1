@@ -5,8 +5,11 @@ import org.junit.Test;
 public class TestBowling {
 
 	@Test
-	public void test() {
-		fail("Not yet implemented");
+	public void test_bowling_score_81() {
+		BowlingGame mygame = new BowlingGame();
+		
+		
+		
 	}
 
 }
