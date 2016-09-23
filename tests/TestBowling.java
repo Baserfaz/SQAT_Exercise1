@@ -14,7 +14,7 @@ public class TestBowling {
 	public void test_bowling_score_one_strike_94() {
 		BowlingGame myGame = new BowlingGame();
 		
-		assertEquals(10, myGame.getTestGameNormalMapSize());
+		assertEquals(94, myGame.score());
 	}
 	
 }

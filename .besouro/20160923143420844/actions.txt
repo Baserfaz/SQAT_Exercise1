@@ -279,3 +279,4 @@ RefactoringAction 1474635250066 TestBowling.java RENAME test_getTestGameNormalMa
 RefactoringAction 1474635252575 TestBowling.java RENAME test_bowling_score_()=>void test_bowling_score_94() METHOD
 RefactoringAction 1474635256583 TestBowling.java RENAME test_bowling_score_94()=>void test_bowling_score_one FIELD
 EditAction 1474635259842 TestBowling.java 399 2 4 2
+EditAction 1474635266855 TestBowling.java 380 2 4 2
