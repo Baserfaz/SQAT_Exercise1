@@ -28,18 +28,6 @@ public class BowlingGame {
 			testGame_normal.put(testGameValues_normal[i], testGameValues_normal[i+1]);
 		}*/
 		
-		
-		testGame_normal.put(1, 5);
-		testGame_normal.put(3, 6);
-		testGame_normal.put(7, 2);
-		testGame_normal.put(3, 6);
-		testGame_normal.put(4, 4);
-		testGame_normal.put(5, 3);
-		testGame_normal.put(3, 3);
-		testGame_normal.put(4, 5);
-		testGame_normal.put(8, 1);
-		testGame_normal.put(2, 6);
-		
 		// loop through each dictionary entry.
 		/*for(Map.Entry<Integer, Integer> e : testGame_normal.entrySet()) {
 			
@@ -49,7 +37,7 @@ public class BowlingGame {
 		}*/
 		
 		// create ten frames
-		/*addFrame(new Frame(1,5));
+		addFrame(new Frame(1,5));
 		
 		addFrame(new Frame(3,6));
 		
@@ -67,7 +55,7 @@ public class BowlingGame {
 		
 		addFrame(new Frame(8,1));
 		
-		addFrame(new Frame(2,6));*/
+		addFrame(new Frame(2,6));
 		
 		
 	}
