@@ -14,6 +14,7 @@ public class BowlingGame {
 	public BowlingGame(){
 		// create ten frames
 		//addFrame(new Frame(10, 0));
+		//addFrame(new Frame());
 		addFrame(new Frame(1,5));
 		addFrame(new Frame(3,6));
 		addFrame(new Frame(7,2));
