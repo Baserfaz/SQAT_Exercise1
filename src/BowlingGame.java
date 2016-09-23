@@ -47,6 +47,8 @@ public class BowlingGame {
 			
 			if(f.isSpare()) {
 					
+				
+				
 				myScore += f.getFirstThrow() + f.getSecondThrow() + frames.get(i + 1).getFirstThrow();
 				continue;
 				
