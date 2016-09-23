@@ -136,3 +136,4 @@ EditAction 1474633466785 TestBowling.java 396 2 4 2
 UnitTestCaseAction 1474633470955 TestBowling.java FAIL
 UnitTestSessionAction 1474633470955 TestBowling.test_getTestGameNormalMapSize FAIL
 EditAction 1474633490058 BowlingGame.java 2038 5 7 0
+EditAction 1474633492920 BowlingGame.java 2040 5 7 0
