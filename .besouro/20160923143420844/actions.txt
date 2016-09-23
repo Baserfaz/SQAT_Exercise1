@@ -123,3 +123,5 @@ RefactoringAction 1474633360206 BowlingGame.java ADD int getNormalMap FIELD
 RefactoringAction 1474633361723 BowlingGame.java RENAME getNormalMap=>int getNormalMapC FIELD
 RefactoringAction 1474633364241 BowlingGame.java RENAME getNormalMapC=>int getNormalMapLenght() METHOD
 EditAction 1474633386311 BowlingGame.java 2033 5 7 0
+RefactoringAction 1474633389922 BowlingGame.java RENAME getNormalMapLenght()=>int getNormalMapSize() METHOD
+EditAction 1474633390689 BowlingGame.java 2031 5 7 0
