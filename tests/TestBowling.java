@@ -137,7 +137,7 @@ public class TestBowling {
 		// bonus
 		myGame.setBonus(7,0);
 		
-		assertEquals(98, myGame.score());
+		assertEquals(90, myGame.score());
 	}
 	
 }

@@ -480,3 +480,4 @@ RefactoringAction 1474637650485 TestBowling.java RENAME test_bowling_score_last9
 RefactoringAction 1474637656497 TestBowling.java RENAME test_bowling_score_last_98()=>void test_bowling_score_last_spare_98() METHOD
 RefactoringAction 1474637659501 TestBowling.java RENAME test_bowling_score_last_spare_98()=>void test_bowling_score_last_spare_90() METHOD
 EditAction 1474637711819 TestBowling.java 3800 7 85 7
+EditAction 1474637724484 TestBowling.java 3800 7 85 7
