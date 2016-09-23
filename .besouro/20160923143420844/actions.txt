@@ -391,3 +391,12 @@ EditAction 1474636734429 TestBowling.java 2201 4 10 4
 UnitTestCaseAction 1474636737144 TestBowling.java FAIL
 UnitTestSessionAction 1474636737145 TestBowling.java FAIL
 EditAction 1474636774612 BowlingGame.java 1706 4 14 0
+UnitTestCaseAction 1474636776779 TestBowling.java FAIL
+UnitTestSessionAction 1474636776779 TestBowling.java FAIL
+RefactoringAction 1474636784043 BowlingGame.java REMOVE setBonus(int, int) METHOD
+RefactoringAction 1474636784044 BowlingGame.java REMOVE addFrame(Frame) METHOD
+RefactoringAction 1474636784045 BowlingGame.java REMOVE score() METHOD
+RefactoringAction 1474636786053 BowlingGame.java ADD void addFrame(Frame) METHOD
+RefactoringAction 1474636786054 BowlingGame.java ADD void setBonus(int, int) METHOD
+RefactoringAction 1474636786054 BowlingGame.java ADD int score() METHOD
+EditAction 1474636786441 BowlingGame.java 1710 4 4 0

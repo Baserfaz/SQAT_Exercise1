@@ -22,7 +22,7 @@ public class BowlingGame {
 		//addFrame(new Frame(1,9)); // spare
 		
 		// 7.
-		addFrame(new Frame(10,0));
+		/*addFrame(new Frame(10,0));
 		addFrame(new Frame(4,6));
 		
 		addFrame(new Frame(7,2));
@@ -32,7 +32,7 @@ public class BowlingGame {
 		addFrame(new Frame(3,3));
 		addFrame(new Frame(4,5));
 		addFrame(new Frame(8,1));
-		addFrame(new Frame(2,6));
+		addFrame(new Frame(2,6));*/
 	}
 	
 	// adds a frame to the game
