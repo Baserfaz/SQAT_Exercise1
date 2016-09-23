@@ -12,7 +12,8 @@ public class BowlingGame {
 	private Frame bonus;
 	
 	public BowlingGame(){
-		// create ten frames.. hardcoding -> easier.
+		// create ten frames.. 
+		// hardcoded -> manually have to change these every single time.
 		
 		//addFrame(new Frame(10, 0)); // strike
 		//addFrame(new Frame(1,9)); // spare
