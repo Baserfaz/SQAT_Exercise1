@@ -401,3 +401,6 @@ RefactoringAction 1474636786054 BowlingGame.java ADD void setBonus(int, int) MET
 RefactoringAction 1474636786054 BowlingGame.java ADD int score() METHOD
 EditAction 1474636786441 BowlingGame.java 1710 4 4 0
 EditAction 1474636791059 TestBowling.java 2197 4 20 4
+UnitTestCaseAction 1474636792254 TestBowling.java FAIL
+UnitTestSessionAction 1474636792254 TestBowling.java FAIL
+EditAction 1474636801730 TestBowling.java 2185 4 48 4
