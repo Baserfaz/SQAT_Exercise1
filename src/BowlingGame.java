@@ -37,14 +37,10 @@ public class BowlingGame {
 	
 	// Returns the game score
 	public int score(){
-		
 		int myScore = 0;
-		
 		for(Frame f : frames) {
 			myScore += f.score();
 		}
-		
 		return myScore;
-		
 	}
 }
