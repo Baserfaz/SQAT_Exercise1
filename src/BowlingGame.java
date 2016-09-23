@@ -70,10 +70,13 @@ public class BowlingGame {
 	// Returns the game score
 	public int score(){
 		int myScore = 0;
-		for(Frame f : frames) {
+		//for(Frame f : frames) {
+		for(int i = 0; i < frames.size(); i++) {
+			
+			Frame f = frames.get(i);
 			
 			if(f.isStrike()) {
-				myScore += f.getFirstThrow() + 
+				myScore += f.getFirstThrow() + frames.get(i + 1).score();
 				continue;
 			}
 			

@@ -226,3 +226,56 @@ EditAction 1474634976647 BowlingGame.java 2002 5 15 0
 EditAction 1474634994920 BowlingGame.java 2015 5 15 0
 EditAction 1474635010022 BowlingGame.java 2010 5 15 0
 EditAction 1474635039634 BowlingGame.java 2056 5 12 0
+CompilationAction 1474635039715 BowlingGame.java
+CompilationAction 1474635101214 BowlingGame.java
+CompilationAction 1474635101333 BowlingGame.java
+CompilationAction 1474635101333 BowlingGame.java
+CompilationAction 1474635101334 BowlingGame.java
+CompilationAction 1474635101334 BowlingGame.java
+CompilationAction 1474635101334 BowlingGame.java
+CompilationAction 1474635101334 BowlingGame.java
+CompilationAction 1474635101334 BowlingGame.java
+CompilationAction 1474635101334 BowlingGame.java
+CompilationAction 1474635101334 BowlingGame.java
+CompilationAction 1474635113600 BowlingGame.java
+CompilationAction 1474635113601 BowlingGame.java
+CompilationAction 1474635113601 BowlingGame.java
+CompilationAction 1474635113602 BowlingGame.java
+CompilationAction 1474635113727 BowlingGame.java
+CompilationAction 1474635113727 BowlingGame.java
+CompilationAction 1474635113728 BowlingGame.java
+CompilationAction 1474635113728 BowlingGame.java
+CompilationAction 1474635113728 BowlingGame.java
+CompilationAction 1474635113728 BowlingGame.java
+CompilationAction 1474635113729 BowlingGame.java
+CompilationAction 1474635113729 BowlingGame.java
+CompilationAction 1474635145125 BowlingGame.java
+CompilationAction 1474635145126 BowlingGame.java
+CompilationAction 1474635145126 BowlingGame.java
+CompilationAction 1474635145126 BowlingGame.java
+CompilationAction 1474635145127 BowlingGame.java
+CompilationAction 1474635145127 BowlingGame.java
+CompilationAction 1474635145128 BowlingGame.java
+CompilationAction 1474635145128 BowlingGame.java
+CompilationAction 1474635193360 BowlingGame.java
+CompilationAction 1474635193360 BowlingGame.java
+CompilationAction 1474635193534 BowlingGame.java
+CompilationAction 1474635193534 BowlingGame.java
+CompilationAction 1474635193535 BowlingGame.java
+CompilationAction 1474635193535 BowlingGame.java
+CompilationAction 1474635193535 BowlingGame.java
+CompilationAction 1474635193535 BowlingGame.java
+CompilationAction 1474635193535 BowlingGame.java
+CompilationAction 1474635193536 BowlingGame.java
+CompilationAction 1474635204392 BowlingGame.java
+CompilationAction 1474635204393 BowlingGame.java
+CompilationAction 1474635204393 BowlingGame.java
+CompilationAction 1474635204394 BowlingGame.java
+CompilationAction 1474635204394 BowlingGame.java
+CompilationAction 1474635204395 BowlingGame.java
+CompilationAction 1474635204395 BowlingGame.java
+CompilationAction 1474635204396 BowlingGame.java
+RefactoringAction 1474635250066 TestBowling.java RENAME test_getTestGameNormalMapSize()=>void test_bowling_score_() METHOD
+RefactoringAction 1474635252575 TestBowling.java RENAME test_bowling_score_()=>void test_bowling_score_94() METHOD
+RefactoringAction 1474635256583 TestBowling.java RENAME test_bowling_score_94()=>void test_bowling_score_one FIELD
+EditAction 1474635259842 TestBowling.java 399 2 4 2
