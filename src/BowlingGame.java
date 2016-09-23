@@ -30,7 +30,7 @@ public class BowlingGame {
 			boolean lastFrame = false;
 			
 			if(i == frames.size() - 1) {
-				
+				lastFrame = true;
 			}
 			
 			if(f.isStrike()) {
@@ -47,10 +47,12 @@ public class BowlingGame {
 			
 			if(f.isSpare()) {
 				
-				if()
-				
-				myScore += f.getFirstThrow() + f.getSecondThrow() + frames.get(i + 1).getFirstThrow();
-				continue;
+				if(lastFrame) {
+					
+				} else {
+					myScore += f.getFirstThrow() + f.getSecondThrow() + frames.get(i + 1).getFirstThrow();
+					continue;
+				}
 			}
 			
 			myScore += f.score();
