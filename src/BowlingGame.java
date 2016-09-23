@@ -35,7 +35,6 @@ public class BowlingGame {
 			addFrame(new Frame(firstScore, secondScore));
 		}
 		
-		
 		// create ten frames
 		/*addFrame(new Frame(10,0));
 		f = frames.get(frames.size() - 1);
@@ -66,6 +65,8 @@ public class BowlingGame {
 		
 		
 	}
+	
+	public int 
 	
 	public int getTestGameNormalMapSize() {
 		return testGame_normal.size();
