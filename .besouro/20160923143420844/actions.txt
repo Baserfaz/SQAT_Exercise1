@@ -119,3 +119,7 @@ EditAction 1474633245181 BowlingGame.java 1969 4 6 0
 UnitTestCaseAction 1474633246435 TestBowling.java FAIL
 UnitTestSessionAction 1474633246435 TestBowling.java FAIL
 EditAction 1474633297353 BowlingGame.java 1959 4 6 0
+RefactoringAction 1474633360206 BowlingGame.java ADD int getNormalMap FIELD
+RefactoringAction 1474633361723 BowlingGame.java RENAME getNormalMap=>int getNormalMapC FIELD
+RefactoringAction 1474633364241 BowlingGame.java RENAME getNormalMapC=>int getNormalMapLenght() METHOD
+EditAction 1474633386311 BowlingGame.java 2033 5 7 0

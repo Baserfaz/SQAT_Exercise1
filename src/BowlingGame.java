@@ -17,7 +17,6 @@ public class BowlingGame {
 	
 	private Map<Integer, Integer> testGame_normal = new HashMap<Integer, Integer>();
 	
-	
 	public BowlingGame(){
 		
 		// create a dictionary of values
@@ -67,6 +66,10 @@ public class BowlingGame {
 		addFrame(new Frame(2,6));*/
 		
 		
+	}
+	
+	public int getNormalMapLenght() {
+		return testGame_normal.size();
 	}
 	
 	// adds a frame to the game
