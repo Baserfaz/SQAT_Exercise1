@@ -280,3 +280,11 @@ RefactoringAction 1474635252575 TestBowling.java RENAME test_bowling_score_()=>v
 RefactoringAction 1474635256583 TestBowling.java RENAME test_bowling_score_94()=>void test_bowling_score_one FIELD
 EditAction 1474635259842 TestBowling.java 399 2 4 2
 EditAction 1474635266855 TestBowling.java 380 2 4 2
+RefactoringAction 1474635278130 BowlingGame.java REMOVE testGameValues_normal FIELD
+RefactoringAction 1474635278131 BowlingGame.java REMOVE testGame_normal FIELD
+RefactoringAction 1474635278131 BowlingGame.java REMOVE testgameValues_strike FIELD
+CompilationAction 1474635278796 BowlingGame.java
+RefactoringAction 1474635281153 BowlingGame.java REMOVE getTestGameNormalMapSize() METHOD
+UnitTestCaseAction 1474635283659 TestBowling.java FAIL
+UnitTestSessionAction 1474635283660 TestBowling.java FAIL
+EditAction 1474635320259 BowlingGame.java 1230 4 14 0
