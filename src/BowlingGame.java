@@ -68,7 +68,7 @@ public class BowlingGame {
 		
 	}
 	
-	public int getNormalMapSize() {
+	public int getTestGameNormalMapSize() {
 		return testGame_normal.size();
 	}
 	
