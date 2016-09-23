@@ -31,6 +31,12 @@ public class BowlingGame {
 
 			if(f.isStrike()) {
 				myScore += f.getFirstThrow() + frames.get(i + 1).score();
+				
+				if(frames.get(i + 1).isStrike()) {
+					
+				}
+				
+				
 				continue;
 			}
 			
