@@ -440,3 +440,11 @@ EditAction 1474637193565 BowlingGame.java 1185 4 4 0
 UnitTestCaseAction 1474637194840 TestBowling.java FAIL
 UnitTestSessionAction 1474637194841 TestBowling.java FAIL
 EditAction 1474637204021 BowlingGame.java 1157 4 4 0
+UnitTestCaseAction 1474637205761 TestBowling.java OK
+UnitTestSessionAction 1474637205762 TestBowling.java OK
+RefactoringAction 1474637238217 TestBowling.java ADD void test_bowling_score_two_strikes_row_112()/2 METHOD
+RefactoringAction 1474637243721 TestBowling.java RENAME test_bowling_score_two_strikes_row_112()/2=>void test_bowling_score_two_strikes_row_9() METHOD
+RefactoringAction 1474637245225 TestBowling.java RENAME test_bowling_score_two_strikes_row_9()=>void test_bowling_score_two_strikes_row_98() METHOD
+RefactoringAction 1474637248230 TestBowling.java RENAME test_bowling_score_two_strikes_row_98()=>void test_bowling_score_two__98() METHOD
+RefactoringAction 1474637253233 TestBowling.java RENAME test_bowling_score_two__98()=>void test_bowling_score_two_spares_row_98() METHOD
+EditAction 1474637253723 TestBowling.java 3233 6 72 6
