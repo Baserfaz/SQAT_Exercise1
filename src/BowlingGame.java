@@ -73,7 +73,8 @@ public class BowlingGame {
 		for(Frame f : frames) {
 			
 			if(f.isStrike()) {
-				
+				myScore += f.getFirstThrow() + 
+				continue;
 			}
 			
 			myScore += f.score();
