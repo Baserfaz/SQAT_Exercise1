@@ -288,3 +288,4 @@ RefactoringAction 1474635281153 BowlingGame.java REMOVE getTestGameNormalMapSize
 UnitTestCaseAction 1474635283659 TestBowling.java FAIL
 UnitTestSessionAction 1474635283660 TestBowling.java FAIL
 EditAction 1474635320259 BowlingGame.java 1230 4 14 0
+EditAction 1474635345566 BowlingGame.java 1231 4 14 0
