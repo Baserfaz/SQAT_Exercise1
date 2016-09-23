@@ -357,3 +357,6 @@ RefactoringAction 1474636481627 TestBowling.java REMOVE import java.util.* IMPOR
 UnitTestCaseAction 1474636482909 TestBowling.java FAIL
 UnitTestSessionAction 1474636482909 TestBowling.java FAIL
 EditAction 1474636548895 TestBowling.java 2185 4 48 4
+UnitTestCaseAction 1474636554039 TestBowling.java FAIL
+UnitTestSessionAction 1474636554040 TestBowling.java FAIL
+EditAction 1474636586893 BowlingGame.java 1765 4 4 0
