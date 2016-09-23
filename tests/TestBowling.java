@@ -10,4 +10,11 @@ public class TestBowling {
 		assertEquals(81, myGame.score());
 	}
 
+	@Test
+	public void test_getTestGameNormalMapSize() {
+		BowlingGame myGame = new BowlingGame();
+		
+		
+	}
+	
 }
