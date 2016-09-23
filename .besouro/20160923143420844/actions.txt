@@ -132,3 +132,4 @@ RefactoringAction 1474633407672 TestBowling.java RENAME test_=>void test_getTest
 RefactoringAction 1474633410182 TestBowling.java RENAME test_getTestGameNormalMapSize=>void test_getTestGameNormalMapSize() METHOD
 EditAction 1474633419518 TestBowling.java 344 2 3 1
 EditAction 1474633446061 TestBowling.java 378 2 4 1
+EditAction 1474633466785 TestBowling.java 396 2 4 2

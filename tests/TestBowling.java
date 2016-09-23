@@ -14,7 +14,7 @@ public class TestBowling {
 	public void test_getTestGameNormalMapSize() {
 		BowlingGame myGame = new BowlingGame();
 		
-		myGame.getTestGameNormalMapSize();
+		assertEquals(10, myGame.getTestGameNormalMapSize());
 	}
 	
 }
