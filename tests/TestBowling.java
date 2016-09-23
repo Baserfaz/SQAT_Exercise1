@@ -29,6 +29,7 @@ public class TestBowling {
 		
 		myGame.addFrame(new Frame(10, 0)); // strike
 		
+		myGame.addFrame(new Frame(3,6));
 		myGame.addFrame(new Frame(7,2));
 		myGame.addFrame(new Frame(3,6));
 		myGame.addFrame(new Frame(4,4));
