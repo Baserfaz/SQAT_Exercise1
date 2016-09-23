@@ -46,13 +46,10 @@ public class BowlingGame {
 			}
 			
 			if(f.isSpare()) {
-				
-				if(lastFrame) {
 					
-				} else {
-					myScore += f.getFirstThrow() + f.getSecondThrow() + frames.get(i + 1).getFirstThrow();
-					continue;
-				}
+				myScore += f.getFirstThrow() + f.getSecondThrow() + frames.get(i + 1).getFirstThrow();
+				continue;
+				
 			}
 			
 			myScore += f.score();
