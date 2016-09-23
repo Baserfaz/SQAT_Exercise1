@@ -14,7 +14,6 @@ public class BowlingGame {
 	private int[] testGameValues_normal = {1,5,3,6,7,2,3,6,4,4,5,3,3,3,4,5,8,1,2,6};
 	private int[] testgameValues_strike = {10,0,3,6,7,2,3,6,4,4,5,3,3,3,4,5,8,1,2,6};
 	
-	
 	private Map<Integer, Integer> testGame_normal = new HashMap<Integer, Integer>();
 	
 	public BowlingGame(){
