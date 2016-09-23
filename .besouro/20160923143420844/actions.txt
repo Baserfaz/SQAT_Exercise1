@@ -167,3 +167,14 @@ EditAction 1474633950658 TestBowling.java 396 2 4 2
 UnitTestCaseAction 1474633952011 TestBowling.java FAIL
 UnitTestSessionAction 1474633952011 TestBowling.java FAIL
 EditAction 1474633964051 BowlingGame.java 1969 5 15 0
+UnitTestCaseAction 1474633965431 TestBowling.java FAIL
+UnitTestSessionAction 1474633965432 TestBowling.java FAIL
+RefactoringAction 1474633984534 BowlingGame.java REMOVE setBonus(int, int) METHOD
+RefactoringAction 1474633984535 BowlingGame.java REMOVE addFrame(Frame) METHOD
+RefactoringAction 1474633984536 BowlingGame.java REMOVE getTestGameNormalMapSize() METHOD
+RefactoringAction 1474633984536 BowlingGame.java REMOVE score() METHOD
+RefactoringAction 1474633987049 BowlingGame.java ADD int getTestGameNormalMapSize() METHOD
+RefactoringAction 1474633987049 BowlingGame.java ADD void addFrame(Frame) METHOD
+RefactoringAction 1474633987050 BowlingGame.java ADD void setBonus(int, int) METHOD
+RefactoringAction 1474633987050 BowlingGame.java ADD int score() METHOD
+EditAction 1474633988154 BowlingGame.java 1859 5 5 0
