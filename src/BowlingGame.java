@@ -38,7 +38,7 @@ public class BowlingGame {
 			addFrame(new Frame(e.getKey(), e.getValue()));
 		}*/
 		
-		
+		// hardcoded addFrames...
 		
 		// create ten frames
 		addFrame(new Frame(1,5));
@@ -51,9 +51,6 @@ public class BowlingGame {
 		addFrame(new Frame(4,5));
 		addFrame(new Frame(8,1));
 		addFrame(new Frame(2,6));
-		
-		
-		
 	}
 	
 
