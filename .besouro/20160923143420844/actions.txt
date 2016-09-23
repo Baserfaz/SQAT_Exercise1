@@ -15,3 +15,6 @@ RefactoringAction 1474631533293 TestBowling.java RENAME test_bowling_score_()=>v
 EditAction 1474631550211 TestBowling.java 205 1 1 0
 EditAction 1474631558966 TestBowling.java 205 1 1 0
 EditAction 1474631573790 TestBowling.java 238 1 2 1
+UnitTestCaseAction 1474631592704 TestBowling.java OK
+UnitTestSessionAction 1474631592705 TestBowling.java OK
+EditAction 1474631603514 TestBowling.java 230 1 2 1
