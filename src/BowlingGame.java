@@ -1,5 +1,7 @@
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 //Finish time:
 //ID:
@@ -9,9 +11,20 @@ public class BowlingGame {
 	private List<Frame> frames = new ArrayList<Frame>();
 	private Frame bonus;
 	
-	private int[] testGame = {1,5,3,6,7,2,3,6,4,4,5,3,3,3,4,5,8,1,2,6};
+	private int[] testGameValues_normal = {1,5,3,6,7,2,3,6,4,4,5,3,3,3,4,5,8,1,2,6};
+	private int[] testgameValues_strike = {10,0,3,6,7,2,3,6,4,4,5,3,3,3,4,5,8,1,2,6};
+	
+	
+	private Map<Integer, Integer> testGame_normal = new HashMap<Integer, Integer>();
+	
 	
 	public BowlingGame(){
+		
+		
+		for(int i = 0; i < testGameValues_normal.length; i++) {
+			testGame_normal.put(testGameValues_normal[i], testGameValues_normal[i+1]);
+		}
+		
 		
 		Frame f = null;
 		
