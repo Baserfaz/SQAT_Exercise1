@@ -52,8 +52,13 @@ public class BowlingGame {
 		for(int i = 0; i < frames.size(); i++) {
 			
 			Frame f = frames.get(i);
+			Frame fSeq = null;
 			if(i != 10) {
-				Frame fSeq = frames.get(i + 1);
+				fSeq = frames.get(i + 1);
+			}
+			
+			if (fSeq == null) {
+				fSeq = new Frame(0,0);
 			}
 				
 			if(f.isStrike()) {
