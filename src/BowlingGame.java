@@ -29,10 +29,7 @@ public class BowlingGame {
 			
 			// key = first score
 			// value = second score
-			int firstScore = e.getKey();
-			int secondScore = e.getValue(); 
-			
-			addFrame(new Frame(firstScore, secondScore));
+			addFrame(new Frame(e.getKey(), e.getValue()));
 		}
 		
 		// create ten frames
