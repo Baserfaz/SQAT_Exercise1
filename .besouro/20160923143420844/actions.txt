@@ -420,3 +420,6 @@ RefactoringAction 1474636945984 TestBowling.java RENAME test_bowling_score_spare
 EditAction 1474636951116 TestBowling.java 2708 5 60 5
 RefactoringAction 1474636968535 TestBowling.java REMOVE test_bowling_score_spare_and_strike_103() METHOD
 EditAction 1474636968813 TestBowling.java 2181 4 48 4
+UnitTestCaseAction 1474636970708 TestBowling.java OK
+UnitTestSessionAction 1474636970709 TestBowling.java OK
+EditAction 1474636978540 BowlingGame.java 995 4 4 0

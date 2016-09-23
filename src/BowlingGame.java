@@ -31,13 +31,7 @@ public class BowlingGame {
 
 			if(f.isStrike()) {
 				myScore += f.getFirstThrow() + frames.get(i + 1).score();
-				
 				continue;
-				
-				// if the subsequential frame is a spare ...
-				// -> calculate spare too and don't continue.
-				
-				//if(!f.isSpare()) continue; 
 			}
 			
 			if(f.isSpare()) {
