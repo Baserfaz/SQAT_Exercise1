@@ -418,3 +418,5 @@ RefactoringAction 1474636936438 TestBowling.java ADD void test_bowling_score_str
 RefactoringAction 1474636940965 TestBowling.java RENAME test_bowling_score_strike_and_spare_103()/2=>void test_bowling_score_spare_and_spare_103() METHOD
 RefactoringAction 1474636945984 TestBowling.java RENAME test_bowling_score_spare_and_spare_103()=>void test_bowling_score_spare_and_strike_103() METHOD
 EditAction 1474636951116 TestBowling.java 2708 5 60 5
+RefactoringAction 1474636968535 TestBowling.java REMOVE test_bowling_score_spare_and_strike_103() METHOD
+EditAction 1474636968813 TestBowling.java 2181 4 48 4
