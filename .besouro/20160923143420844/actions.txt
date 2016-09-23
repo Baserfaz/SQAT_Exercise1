@@ -102,3 +102,10 @@ CompilationAction 1474632812742 BowlingGame.java
 CompilationAction 1474633060515 BowlingGame.java
 CompilationAction 1474633060517 BowlingGame.java
 EditAction 1474633145608 BowlingGame.java 1988 4 19 0
+RefactoringAction 1474633156910 BowlingGame.java REMOVE setBonus(int, int) METHOD
+RefactoringAction 1474633156911 BowlingGame.java REMOVE addFrame(Frame) METHOD
+RefactoringAction 1474633156912 BowlingGame.java REMOVE score() METHOD
+RefactoringAction 1474633158929 BowlingGame.java ADD void addFrame(Frame) METHOD
+RefactoringAction 1474633158930 BowlingGame.java ADD void setBonus(int, int) METHOD
+RefactoringAction 1474633158930 BowlingGame.java ADD int score() METHOD
+EditAction 1474633160364 BowlingGame.java 1969 4 6 0

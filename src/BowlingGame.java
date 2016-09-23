@@ -26,8 +26,6 @@ public class BowlingGame {
 			testGame_normal.put(testGameValues_normal[i], testGameValues_normal[i+1]);
 		}
 		
-		Frame f = null;
-		
 		// loop through each dictionary entry.
 		for(Map.Entry<Integer, Integer> e : testGame_normal.entrySet()) {
 			
@@ -43,7 +41,7 @@ public class BowlingGame {
 		
 		
 		// create ten frames
-		addFrame(new Frame(10,0));
+		/*addFrame(new Frame(10,0));
 		f = frames.get(frames.size() - 1);
 		
 		if(f.isStrike()) {
@@ -68,7 +66,7 @@ public class BowlingGame {
 		
 		addFrame(new Frame(8,1));
 		
-		addFrame(new Frame(2,6));
+		addFrame(new Frame(2,6));*/
 		
 		
 	}
