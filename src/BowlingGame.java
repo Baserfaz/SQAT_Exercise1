@@ -40,9 +40,8 @@ public class BowlingGame {
 		testGame_normal.put(8, 1);
 		testGame_normal.put(2, 6);
 		
-		
 		// loop through each dictionary entry.
-		for(Map.Entry<Integer, Integer> e : testGame_normal.entrySet()()) {
+		for(Map.Entry<Integer, Integer> e : testGame_normal.entrySet()) {
 			
 			// key = first score
 			// value = second score
