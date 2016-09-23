@@ -131,3 +131,4 @@ RefactoringAction 1474633406661 TestBowling.java ADD void test_ FIELD
 RefactoringAction 1474633407672 TestBowling.java RENAME test_=>void test_getTestGameNormalMapSize FIELD
 RefactoringAction 1474633410182 TestBowling.java RENAME test_getTestGameNormalMapSize=>void test_getTestGameNormalMapSize() METHOD
 EditAction 1474633419518 TestBowling.java 344 2 3 1
+EditAction 1474633446061 TestBowling.java 378 2 4 1
