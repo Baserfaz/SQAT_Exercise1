@@ -8,7 +8,7 @@ public class TestBowling {
 	public void test_bowling_score_81() {
 		BowlingGame myGame = new BowlingGame();
 		
-		/*myGame.addFrame(new Frame(1,5));
+		myGame.addFrame(new Frame(1,5));
 		myGame.addFrame(new Frame(3,6));
 		myGame.addFrame(new Frame(7,2));
 		myGame.addFrame(new Frame(3,6));
@@ -17,7 +17,7 @@ public class TestBowling {
 		myGame.addFrame(new Frame(3,3));
 		myGame.addFrame(new Frame(4,5));
 		myGame.addFrame(new Frame(8,1));
-		myGame.addFrame(new Frame(2,6));*/
+		myGame.addFrame(new Frame(2,6));
 		
 		assertEquals(81, myGame.score());
 	}

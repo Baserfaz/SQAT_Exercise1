@@ -400,3 +400,4 @@ RefactoringAction 1474636786053 BowlingGame.java ADD void addFrame(Frame) METHOD
 RefactoringAction 1474636786054 BowlingGame.java ADD void setBonus(int, int) METHOD
 RefactoringAction 1474636786054 BowlingGame.java ADD int score() METHOD
 EditAction 1474636786441 BowlingGame.java 1710 4 4 0
+EditAction 1474636791059 TestBowling.java 2197 4 20 4
